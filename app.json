@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "// React Navtive JS  practice first App\n// fokin-weather",
+    "githubUrl": "https://github.com/hanmihyeon/fokin-weather"
   }
 }
